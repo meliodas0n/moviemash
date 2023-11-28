@@ -1,0 +1,8 @@
+1. write a scraper that gets all the movie names from idk imdb ?
+2. save those names in db with "name", "score(1400)"
+3. the website is simple, you will have a start button and once you click the start button, it should show up 2 images
+and the images should be clickable or should have left and right buttons underneath that image
+4. whenever a image is clicked the scores should get updated according to the algorithm in this page (https://www.hackerearth.com/blog/developers/elo-rating-system-common-link-facemash-chess/)
+
+
+5. initial plan is to just use a randomizer to place two movies for mash, (think about it later)
