@@ -4,11 +4,14 @@ version = "0.1.0"
 description = ""
 authors = ["meliodas0n <mrunalnarayana@gmail.com>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
 Flask = "^3.0.0"
 psycopg2-binary = "^2.9.9"
+pip = "^24.0"
+jupyter = "^1.0.0"
 
 
 [build-system]
